@@ -1,5 +1,36 @@
 # 💫 About Me:
-I am recent graduate with a Bachelor of Computer Application degree. <br>I have successfully completed my graduation and I am currently pursuing masters in computer applications with Machine Learning and Artificial Intelligence.<br>I'm skilled in HTML, CSS, bootstrap, SQL, Python and business intelligence tools like power BI.<br>I thrive on solving Complex problem and my analytical skills are finely honed. <br>I look forward to engage myself in machine learning and interested in that particular field.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>README</title>
+</head>
+<body style="font-family: Arial, sans-serif;">
+    <h1>💻 Hello, I'm [Your Name]! 👋</h1>
+    <h3>🎓 Recent BCA Graduate | 🎓 Pursuing Master's in Computer Applications</h3>
+    <h3>🔍 Focused on Machine Learning & Artificial Intelligence</h3>
+
+  <p>
+        I am a passionate tech enthusiast and a recent graduate with a <strong>Bachelor of Computer Application (BCA)</strong> degree. Currently, I’m pursuing my <strong>Master’s in Computer Applications (MCA)</strong>, specializing in <strong>Machine Learning</strong> and <strong>Artificial Intelligence</strong>.
+    </p>
+    <ul>
+        <li>🎯 I thrive on solving complex problems using my analytical skills.</li>
+        <li>💡 I’m excited to dive deeper into the fascinating field of <strong>Machine Learning</strong>.</li>
+        <li>🌟 I’m always looking for new opportunities to learn and collaborate on interesting projects.</li>
+    </ul>
+    
+  <h2>📈 What I’m Currently Up To</h2>
+    <ul>
+        <li>👨‍🎓 Pursuing <strong>MCA</strong> with a focus on <strong>Machine Learning and AI</strong></li>
+        <li>📚 Expanding my knowledge in <strong>Data Science</strong></li>
+        <li>💼 Open to collaborating on <strong>ML projects</strong> and <strong>research work</strong></li>
+        <li>🤝 Building connections in the <strong>tech community</strong></li>
+    </ul>
+
+<p>Feel free to reach out! I’m always up for a good conversation about technology, ML, or anything else! 😄</p>
+</body>
+</html>
 
 
 ## 🌐 Socials:
@@ -18,9 +49,10 @@ I am recent graduate with a Bachelor of Computer Application degree. <br>I have 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jhaamit07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=jhaamit07&icon=0&color=0)](https://visitcount.itsvg.in)
 
